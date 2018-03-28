@@ -1,3 +1,2 @@
-haha
-git is a distributed version control sysytem
-git is free softwate
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
